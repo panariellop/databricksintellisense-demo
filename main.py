@@ -2,6 +2,7 @@
 # MAGIC %run ./data_processor
 # MAGIC %run ./other_folder/string_analyzer
 # MAGIC %run ./average
+# MAGIC %run /another_folder/printer
 
 # COMMAND ----------
 # This is a second databricks notebook which reuses the classes and functions from the first notebook
